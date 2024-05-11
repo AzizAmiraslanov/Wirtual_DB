@@ -1,0 +1,60 @@
+{
+    "popular-products": [
+        {
+            "id": "1",
+            "img": "BMW5",
+            "marka": "Mercedes",
+            "model": "5 Series",
+            "price": 32000
+        },
+        {
+            "id": "2",
+            "img": "BMWIX",
+            "marka": "BMW",
+            "model": "IX Series",
+            "price": 32000
+        },
+        {
+            "id": "3",
+            "img": "BMWM3",
+            "marka": "BMW",
+            "model": "M3 Series",
+            "price": 12000
+        },
+        {
+            "id": "4",
+            "img": "BMWM4",
+            "marka": "BMW",
+            "model": "M4 Series",
+            "price": 22000
+        },
+        {
+            "id": "5",
+            "img": "BMWM5",
+            "marka": "BMW",
+            "model": "M5 Series",
+            "price": 42000
+        },
+        {
+            "id": "6",
+            "img": "BMWX6",
+            "marka": "BMW",
+            "model": "X6 Series",
+            "price": 72000
+        },
+        {
+            "id": "7",
+            "img": "BMWX7",
+            "marka": "BMW",
+            "model": "X7 Series",
+            "price": 62000
+        },
+        {
+            "id": "8",
+            "img": "BMWXM",
+            "marka": "BMW",
+            "model": "Xm Series",
+            "price": 52000
+        }
+    ]
+}
